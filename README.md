@@ -9,10 +9,6 @@
 
 ## How to use it
 
-    // Nib (required)
-    // github.com/visionmedia/nib
-    @import 'nib'
-
     @import 'normalize'
 
 Learn more about [Normalize.css](http://nicolasgallagher.com/about-normalize-css/ "Normalize.css")
