@@ -1,0 +1,21 @@
+{
+  "name": "normalize.styl",
+  "version": "3.0.3",
+  "description": "Stylus version of normalize.css",
+  "main": "normalize.styl",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bymathias/normalize.styl.git"
+  },
+  "keywords": [
+    "normalize",
+    "css",
+    "stylus"
+  ],
+  "author": ["Nicolas Gallagher", "Mathias Brouilly"],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bymathias/normalize.styl/issues"
+  },
+  "homepage": "https://github.com/bymathias/normalize.styl"
+}
