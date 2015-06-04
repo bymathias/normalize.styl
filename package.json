@@ -1,5 +1,5 @@
 {
-  "name": "normalize.styl",
+  "name": "normalize-styl",
   "version": "3.0.3",
   "description": "Stylus version of normalize.css",
   "main": "normalize.styl",

@@ -5,7 +5,7 @@
 
 * Clone the repo `git clone https://github.com/bymathias/normalize.styl`
 * or install with [Bower](http://bower.io/ "Bower") `bower install --save normalize.styl`
-* or install with [npm](https://www.npmjs.com/) `npm install --save normalize.styl`
+* or install with [npm](https://www.npmjs.com/) `npm install --save normalize-styl`
 * or [download the latest version](https://github.com/bymathias/normalize.styl/archive/master.zip "Download ZIP") 
 
 ## How to use it
