@@ -1,6 +1,6 @@
 {
   "name": "normalize-styl",
-  "version": "3.0.3",
+  "version": "4.1.1",
   "description": "Stylus version of normalize.css",
   "main": "normalize.styl",
   "repository": {
