@@ -1,6 +1,6 @@
 {
     "name": "normalize.styl",
-    "version": "7.0.0",
+    "version": "8.0.0",
     "main": "normalize.styl",
     "author": [ "Nicolas Gallagher", "Mathias Brouilly" ],
     "ignore": []
