@@ -1,7 +1,7 @@
 # [Stylus](http://learnboost.github.io/stylus/ "Stylus") version of [Normalize.css](http://necolas.github.io/normalize.css/ "Normalize")
 
-![Github Release](https://img.shields.io/github/v/release/bymathias/normalize.styl.svg?style=flat-square)
-![npm](https://img.shields.io/npm/v/normalize-styl?style=flat-square)
+[![Github Release][github-release-img]][github-release-url]
+[![npm][npm-version-img]][npm-version-url]
 
 ## Get started
 
@@ -21,3 +21,8 @@ Learn more about [Normalize.css](http://nicolasgallagher.com/about-normalize-css
 [Normalize.css](http://necolas.github.io/normalize.css/ "Normalize") is a project by [Nicolas Gallagher](https://github.com/necolas), co-created with [Jonathan Neal](https://github.com/jonathantneal).
 
 Stylus port by [Mathias Brouilly](https://github.com/bymathias).
+
+[github-release-url]: https://github.com/bymathias/normalize.styl/releases/latest
+[github-release-img]: https://img.shields.io/github/v/release/bymathias/normalize.styl.svg?style=flat-square
+[npm-version-url]:    https://www.npmjs.com/package/normalize-styl
+[npm-version-img]:    https://img.shields.io/npm/v/normalize-styl?style=flat-square
