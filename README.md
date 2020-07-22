@@ -1,5 +1,7 @@
 # [Stylus](http://learnboost.github.io/stylus/ "Stylus") version of [Normalize.css](http://necolas.github.io/normalize.css/ "Normalize")
-[![GitHub version](https://badge.fury.io/gh/bymathias%2Fnormalize.styl.png)](http://badge.fury.io/gh/bymathias%2Fnormalize.styl)
+
+![Github Release](https://img.shields.io/github/v/release/bymathias/normalize.styl.svg?style=flat-square)
+![npm](https://img.shields.io/npm/v/normalize-styl?style=flat-square)
 
 ## Get started
 
